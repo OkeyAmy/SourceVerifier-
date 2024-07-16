@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "openfactverification"
+name = "openfactverification-kongzii"
 version = "0.1.0"
 packages = [
     {include = "factcheck"}
