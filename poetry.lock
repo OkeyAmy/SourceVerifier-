@@ -6010,4 +6010,4 @@ api = ["Flask"]
 [metadata]
 lock-version = "2.0"
 python-versions = "<3.12,>=3.10"
-content-hash = "19a6a77328ad5ba6ffc1371e9a36dd2c6ac171c1d22ea942caddbf2e60a90cc0"
+content-hash = "8cded4df8edf30aeb908546164eb358ba89fb84702d7ad1fef06f98203841411"
